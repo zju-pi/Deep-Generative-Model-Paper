@@ -45,70 +45,7 @@
   - Deep Generative Models
   - [[Slides & Video]](http://auai.org/uai2017/tutorials.php)
 
-## Model Compression
-
-- **IEEE Signal processing magazine 17 --Yu Cheng et al.**
-  - A Survey of Model Compression and Acceleration for Deep Neural Networks.   
-  - [[Paper]](https://arxiv.org/abs/1710.09282)
-
-- **ICLR 16 Best paper --Song Han et al.**
-  - Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding.
-  - [[Paper]](https://arxiv.org/pdf/1510.00149v5.pdf)
-
-- **CVPR 18 --Miguel A. et al.**
-  - "Learning-Compression" Algorithms for Neural Net Pruning.
-  - [[Paper]](http://faculty.ucmerced.edu/mcarreira-perpinan/papers/cvpr18.pdf)
-  
-- **ARXIV 17 --Miguel A. et al.**
-  - Model compression as constrained optimization, with application to neural nets. Part I: general framework.
-  - [[Paper]](https://arxiv.org/pdf/1707.01209.pdf)
-  
-- **ARXIV 17 --Miguel A. et al.**
-  - Model compression as constrained optimization, with application to neural nets. Part Ⅱ: quantization.
-  - [[Paper]](https://arxiv.org/pdf/1707.04319.pdf)
-
-- **NIPS 13 --M. Denil et al.**
-  - Predicting Parameters in Deep Learning.
-  - [[Paper]](https://arxiv.org/pdf/1306.0543.pdf)
-
-- **ICLR 15 --Y. Gong et al.**
-  - Compressing Deep Convolutional Networks using Vector Quantization.
-  - [[Paper]](https://arxiv.org/pdf/1412.6115.pdf)
-
-- **NIPS 15 --A. Novikov et al.**
-  - Tensorizing Neural Networks.
-  - [[Paper]](https://arxiv.org/pdf/1509.06569.pdf)
-
-- **ICLR 17 --K. Ullrich et al.**
-  - Soft Weight-Sharing for Neural Network Compression.
-  - [[Paper]](https://arxiv.org/pdf/1702.04008.pdf)
-
-- **ICLR 17 --C. Zhu et al.**
-  - Trained Ternary Quantization.
-  - [[Paper]](https://arxiv.org/pdf/1612.01064.pdf)
-
-- **ICLR 17 --H. Li et al.**
-  - Pruning Filters for Efficient ConvNets.
-  - [[Paper]](https://arxiv.org/pdf/1608.08710.pdf)
-
-- **NIPS-workshop 14 --G. Hinton et al.**
-  - Distilling the Knowledge in a Neural Network.
-  - [[Paper]](https://arxiv.org/pdf/1503.02531.pdf)
-
-- **ICML- 17 --Y. Wang et al.**
-  - Beyond Filters: Compact Feature Map for Portable Deep Model.
-  - [[Paper]](http://proceedings.mlr.press/v70/wang17m.html)
-
-- **NIPS- 18 --J. Kim et al.**
-  - Paraphrasing Complex Network: Network Compression via Factor Transfer.
-  - [[Paper]](http://papers.nips.cc/paper/7541-paraphrasing-complex-network-network-compression-via-factor-transfer)
-
-- **ICML- 18 --X. Jin et al.**
-  - WSNet: Compact and Efficient Networks Through Weight Sampling.
-  - [[Paper]](https://arxiv.org/pdf/1711.10067.pdf)
-
 ## Deep Generative Model
-
 
 - **ICML 14 -- Danilo J. Rezende et al.**
   - (DLGM) Stochastic Backpropagation and Approximate Inference in Deep Generative Models.  
@@ -121,7 +58,6 @@
 - **NIPS 15 -- Kihyuk Sohn et al.**
   - (CVAE) Learning Structured Output Representation using Deep Conditional Generative Models.   
   - [[Paper & Supplement]](http://papers.nips.cc/paper/5775-learning-structured-output-representation-using-deep-conditional)
-
 
 - **ICLR 17 oral -- Martin Arjovsky et al.**
   - (WGAN-1) Towards Principled Methods for Training Generative Adversarial Networks.   
@@ -172,36 +108,14 @@
 - **NIPS 18 -- Yucen Luo et al.**
   - Semi-crowdsourced Clustering with Deep Generative Models.
   - [[Paper]](https://arxiv.org/abs/1810.11971?context=cs)
-  
-## Variational Inference 
 
 - **JMLR 13 -- Matthew D. Hoffman et al.**
   - (SVI) Stochastic Variational Inference.   
   - [[Paper]](http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)
-  
-## Others
-
-- **ICDE 18 -- Qihao Shi et al.**
-  - (AIB) Adaptive Influence Blocking: Minimizing the Negative Spread by Observation-based Policies.
-  
-- **ICDM 18 -- Jiawei Chen et al.**
-  - (SPMF-MNAR) Social Recommendation with Missing Not at Random Data.
-
-- **TGRS 18 -- Gong Cheng et al.**
-  - (D-CNNs) When Deep Learning Meets Metric Learning: Remote Sensing Image Scene Classification via Learning Discriminative CNNs.   
-  - [[Paper]](https://ieeexplore.ieee.org/abstract/document/8252784)
-    
-# To Read
-  
+      
 - **ICLR 18 -- Ilya Tolstikhin et al.**
   - Wasserstein Auto-Encoders.   
   - [[Paper]](https://arxiv.org/abs/1711.01558)
-
-
-- **NIPS 17 -- Pan ji et al.**
-  - (DSC-Nets) Deep Subspace Clustering Networks.   
-  - [[Paper]](http://papers.nips.cc/paper/6608-deep-subspace-clustering-networks.pdf)
-  - [[TensorFlow]](https://github.com/panji1990/Deep-subspace-clustering-networks) 
  
  # Useful Resources
  
