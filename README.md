@@ -1,5 +1,18 @@
-# Already Read
+# New
 
+
+- **Auto-Encoding Variational Bayes, ICLR 2014** [[Paper]](https://arxiv.org/abs/1312.6114)
+  - *Diederik P Kingma, Max Welling.*
+
+- **Generative Adversarial Nets, NIPS 2014** [[Paper]](https://arxiv.org/abs/1406.2661)
+  - *Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio.*
+
+- **Denoising Diffusion Probabilistic Models, NIPS 2020** [[Paper]](http://arxiv.org/abs/2006.11239)[[TensorFlow]](https://github.com/hojonathanho/diffusion))
+  - *Jonathan Ho, Ajay Jain, Pieter Abbeel.*
+
+
+
+# Old
 ## Tutorial & Review & Lecture Notes 
 
 - **JASA 17 -- David M.Blei et al.**
@@ -91,9 +104,6 @@
 
 ## Deep Generative Model
 
-- **ICLR 14 --Diederik P. Kingma et al.**
-  - (VAE) Auto-Encoding Variational Bayes.   
-  - [[Paper]](https://arxiv.org/abs/1312.6114)
 
 - **ICML 14 -- Danilo J. Rezende et al.**
   - (DLGM) Stochastic Backpropagation and Approximate Inference in Deep Generative Models.  
@@ -107,9 +117,6 @@
   - (CVAE) Learning Structured Output Representation using Deep Conditional Generative Models.   
   - [[Paper & Supplement]](http://papers.nips.cc/paper/5775-learning-structured-output-representation-using-deep-conditional)
 
-- **NIPS 14 -- Ian J. Goodfellow et al.**
-  - (GAN) Generative Adversarial Nets.   
-  - [[Paper]](https://arxiv.org/abs/1406.2661)
 
 - **ICLR 17 oral -- Martin Arjovsky et al.**
   - (WGAN-1) Towards Principled Methods for Training Generative Adversarial Networks.   
