@@ -9,6 +9,9 @@
 - **Deep Unsupervised Learning using Nonequilibrium Thermodynamics, ICML 2015** [[Paper]](https://arxiv.org/abs/1503.03585)
   - *Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli.*
 
+- **Sliced Score Matching: A Scalable Approach to Density and Score Estimation, UAI 2019** [[Paper]](https://arxiv.org/abs/1905.07088)[[PyTorch]](https://github.com/ermongroup/sliced_score_matching)
+  - *Yang Song, Sahaj Garg, Jiaxin Shi, Stefano Ermon.*
+
 - **Generative Modeling by Estimating Gradients of the Data Distribution, NIPS 2019** [[Paper]](https://arxiv.org/abs/1907.05600)[[PyTorch]](https://github.com/ermongroup/ncsn)
   - *Yang Song, Stefano Ermon.*
 
