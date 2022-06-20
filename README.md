@@ -9,11 +9,19 @@
 - **Deep Unsupervised Learning using Nonequilibrium Thermodynamics, ICML 2015** [[Paper]](https://arxiv.org/abs/1503.03585)
   - *Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli.*
 
+- **Generative Modeling by Estimating Gradients of the Data Distribution, NIPS 2019** [[Paper]](https://arxiv.org/abs/1907.05600)[[PyTorch]](https://github.com/ermongroup/ncsn)
+  - *Yang Song, Stefano Ermon.*
+
+- **Improved Techniques for Training Score-Based Generative Models, NIPS 2020** [[Paper]](https://arxiv.org/abs/2006.09011)[[PyTorch]](https://github.com/ermongroup/ncsnv2)
+  - *Yang Song, Stefano Ermon.*
+
 - **Denoising Diffusion Probabilistic Models, NIPS 2020** [[Paper]](http://arxiv.org/abs/2006.11239)[[TensorFlow]](https://github.com/hojonathanho/diffusion)
   - *Jonathan Ho, Ajay Jain, Pieter Abbeel.*
 
 - **Diffusion Models Beat GANs on Image Synthesis, NIPS 2021** [[Paper]](http://arxiv.org/abs/2105.05233)
   - *Prafulla Dhariwal, Alex Nichol.*
+
+
 
 
 # My Reading list Before 2019
