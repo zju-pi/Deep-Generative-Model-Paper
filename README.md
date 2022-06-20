@@ -1,5 +1,4 @@
-# New
-
+# Newly Reading list
 
 - **Auto-Encoding Variational Bayes, ICLR 2014** [[Paper]](https://arxiv.org/abs/1312.6114)
   - *Diederik P Kingma, Max Welling.*
@@ -7,12 +6,18 @@
 - **Generative Adversarial Nets, NIPS 2014** [[Paper]](https://arxiv.org/abs/1406.2661)
   - *Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio.*
 
-- **Denoising Diffusion Probabilistic Models, NIPS 2020** [[Paper]](http://arxiv.org/abs/2006.11239)[[TensorFlow]](https://github.com/hojonathanho/diffusion))
+- **Deep Unsupervised Learning using Nonequilibrium Thermodynamics, ICML 2015** [[Paper]](https://arxiv.org/abs/1503.03585)
+  - *Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli.*
+
+- **Denoising Diffusion Probabilistic Models, NIPS 2020** [[Paper]](http://arxiv.org/abs/2006.11239)[[TensorFlow]](https://github.com/hojonathanho/diffusion)
   - *Jonathan Ho, Ajay Jain, Pieter Abbeel.*
 
+- **Diffusion Models Beat GANs on Image Synthesis, NIPS 2021** [[Paper]](http://arxiv.org/abs/2105.05233)
+  - *Prafulla Dhariwal, Alex Nichol.*
 
 
-# Old
+# My Reading list Before 2019
+
 ## Tutorial & Review & Lecture Notes 
 
 - **JASA 17 -- David M.Blei et al.**
