@@ -1,5 +1,8 @@
 # Newly Reading list
 
+- **Estimation of Non-Normalized Statistical Models by Score Matching, JMLR 2005** [[Paper]](https://jmlr.csail.mit.edu/beta/papers/v6/hyvarinen05a.html)
+  - *Aapo Hyvarinen.*
+
 - **Auto-Encoding Variational Bayes, ICLR 2014** [[Paper]](https://arxiv.org/abs/1312.6114)
   - *Diederik P Kingma, Max Welling.*
 
