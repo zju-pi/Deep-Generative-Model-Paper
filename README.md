@@ -1,32 +1,34 @@
 # Newly Reading list
 
-- **Estimation of Non-Normalized Statistical Models by Score Matching, JMLR 2005** [[Paper]](https://jmlr.csail.mit.edu/beta/papers/v6/hyvarinen05a.html)
+- **Estimation of Non-Normalized Statistical Models by Score Matching** [[JMLR 2005]](https://jmlr.csail.mit.edu/beta/papers/v6/hyvarinen05a.html)
   - *Aapo Hyvarinen.*
 
-- **Auto-Encoding Variational Bayes, ICLR 2014** [[Paper]](https://arxiv.org/abs/1312.6114)
+- **Auto-Encoding Variational Bayes** [[ICLR 2014]](https://arxiv.org/abs/1312.6114)
   - *Diederik P Kingma, Max Welling.*
 
-- **Generative Adversarial Nets, NIPS 2014** [[Paper]](https://arxiv.org/abs/1406.2661)
+- **Generative Adversarial Nets** [[NIPS 2014]](https://arxiv.org/abs/1406.2661)
   - *Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio.*
 
-- **Deep Unsupervised Learning using Nonequilibrium Thermodynamics, ICML 2015** [[Paper]](https://arxiv.org/abs/1503.03585)
+- **Deep Unsupervised Learning using Nonequilibrium Thermodynamics** [[ICML 2015]](https://arxiv.org/abs/1503.03585)
   - *Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli.*
 
-- **Sliced Score Matching: A Scalable Approach to Density and Score Estimation, UAI 2019** [[Paper]](https://arxiv.org/abs/1905.07088)[[PyTorch]](https://github.com/ermongroup/sliced_score_matching)
+- **Sliced Score Matching: A Scalable Approach to Density and Score Estimation** [[UAI 2019]](https://arxiv.org/abs/1905.07088)[[PyTorch]](https://github.com/ermongroup/sliced_score_matching)
   - *Yang Song, Sahaj Garg, Jiaxin Shi, Stefano Ermon.*
 
-- **Generative Modeling by Estimating Gradients of the Data Distribution, NIPS 2019** [[Paper]](https://arxiv.org/abs/1907.05600)[[PyTorch]](https://github.com/ermongroup/ncsn)
+- **Generative Modeling by Estimating Gradients of the Data Distribution** [[NIPS 2019]](https://arxiv.org/abs/1907.05600)[[PyTorch]](https://github.com/ermongroup/ncsn)
   - *Yang Song, Stefano Ermon.*
 
-- **Improved Techniques for Training Score-Based Generative Models, NIPS 2020** [[Paper]](https://arxiv.org/abs/2006.09011)[[PyTorch]](https://github.com/ermongroup/ncsnv2)
+- **Improved Techniques for Training Score-Based Generative Models** [[NIPS 2020]](https://arxiv.org/abs/2006.09011)[[PyTorch]](https://github.com/ermongroup/ncsnv2)
   - *Yang Song, Stefano Ermon.*
 
-- **Denoising Diffusion Probabilistic Models, NIPS 2020** [[Paper]](http://arxiv.org/abs/2006.11239)[[TensorFlow]](https://github.com/hojonathanho/diffusion)
+- **Denoising Diffusion Probabilistic Models** [[NIPS 2020]](http://arxiv.org/abs/2006.11239)[[TensorFlow]](https://github.com/hojonathanho/diffusion)
   - *Jonathan Ho, Ajay Jain, Pieter Abbeel.*
 
-- **Diffusion Models Beat GANs on Image Synthesis, NIPS 2021** [[Paper]](http://arxiv.org/abs/2105.05233)
+- **Diffusion Models Beat GANs on Image Synthesis** [[NIPS 2021]](http://arxiv.org/abs/2105.05233)
   - *Prafulla Dhariwal, Alex Nichol.*
 
+- **Score-Based Generative Modeling through Stochastic Differential Equations** [[ICLR 2021]](https://arxiv.org/abs/2011.13456)[[TensorFlow]](https://github.com/yang-song/score_sde)[[PyTorch]](https://github.com/yang-song/score_sde_pytorch)
+  - *Yang Song, Jascha Sohl-Dickstein, Diederik P. Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole.*
 
 
 
