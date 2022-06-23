@@ -3,6 +3,9 @@
 - **Estimation of Non-Normalized Statistical Models by Score Matching** [[JMLR 2005]](https://jmlr.csail.mit.edu/beta/papers/v6/hyvarinen05a.html)
   - *Aapo Hyvarinen.*
 
+- **A Connection Between Score Matching and Denoising Autoencoders** [[Neural Computation 2011]](https://direct.mit.edu/neco/article/23/7/1661/7677/A-Connection-Between-Score-Matching-and-Denoising)
+  - *Pascal Vincent.*
+
 - **Auto-Encoding Variational Bayes** [[ICLR 2014]](https://arxiv.org/abs/1312.6114)
   - *Diederik P Kingma, Max Welling.*
 
