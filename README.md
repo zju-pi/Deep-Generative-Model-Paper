@@ -3,6 +3,9 @@
 - **Estimation of Non-Normalized Statistical Models by Score Matching** [[JMLR 2005]](https://jmlr.csail.mit.edu/beta/papers/v6/hyvarinen05a.html)
   - *Aapo Hyvarinen.*
 
+- **Extracting and Composing Robust Features with Denoising Autoencoders** [[ICML 2008]](https://dl.acm.org/doi/10.1145/1390156.1390294)
+  - *Pascal Vincent, Hugo Larochelle, Yoshua Bengio, Pierre-Antoine Manzagol.*
+
 - **A Connection Between Score Matching and Denoising Autoencoders** [[Neural Computation 2011]](https://direct.mit.edu/neco/article/23/7/1661/7677/A-Connection-Between-Score-Matching-and-Denoising)
   - *Pascal Vincent.*
 
