@@ -6,6 +6,9 @@
 - **A Connection Between Score Matching and Denoising Autoencoders** [[Neural Computation 2011]](https://direct.mit.edu/neco/article/23/7/1661/7677/A-Connection-Between-Score-Matching-and-Denoising)
   - *Pascal Vincent.*
 
+- **Bayesian Learning via Stochastic Gradient Langevin Dynamics** [[ICML 2011]](https://dl.acm.org/doi/10.5555/3104482.3104568)
+  - *Max Welling, Yee Whye Teh.*
+
 - **Auto-Encoding Variational Bayes** [[ICLR 2014]](https://arxiv.org/abs/1312.6114)
   - *Diederik P Kingma, Max Welling.*
 
