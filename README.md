@@ -33,12 +33,14 @@
 - **Denoising Diffusion Probabilistic Models** [[NIPS 2020]](http://arxiv.org/abs/2006.11239)[[TensorFlow]](https://github.com/hojonathanho/diffusion)
   - *Jonathan Ho, Ajay Jain, Pieter Abbeel.*
 
+- **Efficient Learning of Generative Models via Finite-Difference Score Matching** [[NIPS 2020]](https://arxiv.org/abs/2007.03317)[[PyTorch]](https://github.com/taufikxu/FD-ScoreMatching)
+  - *Tianyu Pang, Kun Xu, Chongxuan Li, Yang Song, Stefano Ermon, Jun Zhu.*
+
 - **Diffusion Models Beat GANs on Image Synthesis** [[NIPS 2021]](http://arxiv.org/abs/2105.05233)
   - *Prafulla Dhariwal, Alex Nichol.*
 
 - **Score-Based Generative Modeling through Stochastic Differential Equations** [[ICLR 2021]](https://arxiv.org/abs/2011.13456)[[TensorFlow]](https://github.com/yang-song/score_sde)[[PyTorch]](https://github.com/yang-song/score_sde_pytorch)
   - *Yang Song, Jascha Sohl-Dickstein, Diederik P. Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole.*
-
 
 
 # My Reading list Before 2019
