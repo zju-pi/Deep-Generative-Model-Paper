@@ -46,6 +46,8 @@
 
 https://www.inference.vc/denoising-as-unsupervised-learning/
 
+https://openai.com/blog/generative-models/
+
 # My Reading list Before 2019
 
 ## Tutorial & Review & Lecture Notes 
