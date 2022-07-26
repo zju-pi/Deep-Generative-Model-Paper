@@ -9,9 +9,6 @@
 - **A Connection Between Score Matching and Denoising Autoencoders** [[Neural Computation 2011]](https://direct.mit.edu/neco/article/23/7/1661/7677/A-Connection-Between-Score-Matching-and-Denoising)
   - *Pascal Vincent.*
 
-- **Bayesian Learning via Stochastic Gradient Langevin Dynamics** [[ICML 2011]](https://dl.acm.org/doi/10.5555/3104482.3104568)
-  - *Max Welling, Yee Whye Teh.*
-
 - **Auto-Encoding Variational Bayes** [[ICLR 2014]](https://arxiv.org/abs/1312.6114)
   - *Diederik P Kingma, Max Welling.*
 
@@ -42,11 +39,24 @@
 - **Score-Based Generative Modeling through Stochastic Differential Equations** [[ICLR 2021]](https://arxiv.org/abs/2011.13456)[[TensorFlow]](https://github.com/yang-song/score_sde)[[PyTorch]](https://github.com/yang-song/score_sde_pytorch)
   - *Yang Song, Jascha Sohl-Dickstein, Diederik P. Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole.*
 
+## Sampling
+
+- **An Introduction to MCMC for Machine Learning** [[ML 2003]](https://link.springer.com/article/10.1023/A:1020281327116)
+  - *Christophe Andrieu, Nando de Freitas, Arnaud Doucet, Michael I. Jordan.*
+
+- **MCMC Using Hamiltonian Dynamics** [[Handbook of Markov Chain Monte Carlo 2010]](https://arxiv.org/abs/1206.1901)
+  - *Radford M. Neal.*
+
+- **Bayesian Learning via Stochastic Gradient Langevin Dynamics** [[ICML 2011]](https://dl.acm.org/doi/10.5555/3104482.3104568)
+  - *Max Welling, Yee Whye Teh.*
+
+
 ## Blog
 
 https://www.inference.vc/denoising-as-unsupervised-learning/
 
 https://openai.com/blog/generative-models/
+
 
 # My Reading list Before 2019
 
