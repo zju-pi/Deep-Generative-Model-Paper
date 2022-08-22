@@ -1,4 +1,13 @@
-# Newly Reading list
+## Contents
+- [Resources](#resources)
+  - [Score-based models](#score-based-models)
+  - [Sampling](#sampling)
+  - [Diffusion models](#diffusion-models)
+  - [Other models](#other-models)
+  
+
+# Resources
+## Score-based models
 
 - **Estimation of Non-Normalized Statistical Models by Score Matching** [[JMLR 2005]](https://jmlr.csail.mit.edu/beta/papers/v6/hyvarinen05a.html)
   - *Aapo Hyvarinen.*
@@ -9,15 +18,6 @@
 - **A Connection Between Score Matching and Denoising Autoencoders** [[Neural Computation 2011]](https://direct.mit.edu/neco/article/23/7/1661/7677/A-Connection-Between-Score-Matching-and-Denoising)
   - *Pascal Vincent.*
 
-- **Auto-Encoding Variational Bayes** [[ICLR 2014]](https://arxiv.org/abs/1312.6114)
-  - *Diederik P Kingma, Max Welling.*
-
-- **Generative Adversarial Nets** [[NIPS 2014]](https://arxiv.org/abs/1406.2661)
-  - *Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio.*
-
-- **Deep Unsupervised Learning using Nonequilibrium Thermodynamics** [[ICML 2015]](https://arxiv.org/abs/1503.03585)
-  - *Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli.*
-
 - **Sliced Score Matching: A Scalable Approach to Density and Score Estimation** [[UAI 2019]](https://arxiv.org/abs/1905.07088)[[PyTorch]](https://github.com/ermongroup/sliced_score_matching)
   - *Yang Song, Sahaj Garg, Jiaxin Shi, Stefano Ermon.*
 
@@ -27,14 +27,11 @@
 - **Improved Techniques for Training Score-Based Generative Models** [[NIPS 2020]](https://arxiv.org/abs/2006.09011)[[PyTorch]](https://github.com/ermongroup/ncsnv2)
   - *Yang Song, Stefano Ermon.*
 
-- **Denoising Diffusion Probabilistic Models** [[NIPS 2020]](http://arxiv.org/abs/2006.11239)[[TensorFlow]](https://github.com/hojonathanho/diffusion)
-  - *Jonathan Ho, Ajay Jain, Pieter Abbeel.*
-
 - **Efficient Learning of Generative Models via Finite-Difference Score Matching** [[NIPS 2020]](https://arxiv.org/abs/2007.03317)[[PyTorch]](https://github.com/taufikxu/FD-ScoreMatching)
   - *Tianyu Pang, Kun Xu, Chongxuan Li, Yang Song, Stefano Ermon, Jun Zhu.*
 
-- **Diffusion Models Beat GANs on Image Synthesis** [[NIPS 2021]](http://arxiv.org/abs/2105.05233)
-  - *Prafulla Dhariwal, Alex Nichol.*
+- **Adversarial score matching and improved sampling for image generation** [[ICLR 2021]](https://openreview.net/forum?id=eLfqMl3z3lq)[[PyTorch]](https://github.com/AlexiaJM/AdversarialConsistentScoreMatching)
+  - *Alexia Jolicoeur-Martineau, Rémi Piché-Taillefer, Ioannis Mitliagkas, Remi Tachet des Combes.*
 
 - **Score-Based Generative Modeling through Stochastic Differential Equations** [[ICLR 2021]](https://arxiv.org/abs/2011.13456)[[TensorFlow]](https://github.com/yang-song/score_sde)[[PyTorch]](https://github.com/yang-song/score_sde_pytorch)
   - *Yang Song, Jascha Sohl-Dickstein, Diederik P. Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole.*
@@ -44,12 +41,36 @@
 - **An Introduction to MCMC for Machine Learning** [[ML 2003]](https://link.springer.com/article/10.1023/A:1020281327116)
   - *Christophe Andrieu, Nando de Freitas, Arnaud Doucet, Michael I. Jordan.*
 
+- **Introduction to Markov Chain Monte Carlo** [[Handbook of Markov Chain Monte Carlo 2010]](http://www.mcmchandbook.net/HandbookChapter1.pdf)
+  - *Charles J. Geyer.*
+
 - **MCMC Using Hamiltonian Dynamics** [[Handbook of Markov Chain Monte Carlo 2010]](https://arxiv.org/abs/1206.1901)
   - *Radford M. Neal.*
 
 - **Bayesian Learning via Stochastic Gradient Langevin Dynamics** [[ICML 2011]](https://dl.acm.org/doi/10.5555/3104482.3104568)
-  - *Max Welling, Yee Whye Teh.*
+  - *Max Welling, Yee Whye Teh.* **(Test-of-time Award of ICML 2021)**
 
+- **Bayesian Posterior Sampling via Stochastic Gradient Fisher Scoring** [[ICML 2011]](https://dl.acm.org/doi/10.5555/3042573.3042799)
+  - *Sungjin Ahn, Anoop Korattikara, Max Welling.* **(Best Paper Award)**
+
+
+## Diffusion models
+- **Deep Unsupervised Learning using Nonequilibrium Thermodynamics** [[ICML 2015]](https://arxiv.org/abs/1503.03585)
+  - *Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli.*
+
+- **Denoising Diffusion Probabilistic Models** [[NIPS 2020]](http://arxiv.org/abs/2006.11239)[[TensorFlow]](https://github.com/hojonathanho/diffusion)
+  - *Jonathan Ho, Ajay Jain, Pieter Abbeel.*
+
+- **Diffusion Models Beat GANs on Image Synthesis** [[NIPS 2021]](http://arxiv.org/abs/2105.05233)
+  - *Prafulla Dhariwal, Alex Nichol.*
+
+## Other models
+
+- **Auto-Encoding Variational Bayes** [[ICLR 2014]](https://arxiv.org/abs/1312.6114)
+  - *Diederik P Kingma, Max Welling.*
+
+- **Generative Adversarial Nets** [[NIPS 2014]](https://arxiv.org/abs/1406.2661)
+  - *Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio.*
 
 ## Blog
 
@@ -59,35 +80,6 @@ https://openai.com/blog/generative-models/
 
 
 # My Reading list Before 2019
-
-## Tutorial & Review & Lecture Notes 
-
-- **JASA 17 -- David M.Blei et al.**
-  - Variational Inference: A Review for Statisticians.    
-  - [[Paper]](https://arxiv.org/abs/1601.00670)
-  - [[Notes]](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
-
-- **NIPS 16 Tutorial -- David Blei et al.**
-  - Variational Inference: Foundations and Modern Methods.   
-  - [[Slides & Video]](https://nips.cc/Conferences/2016/Schedule?showEvent=6199)
-
-- **NIPS 16 Tutorial -- Ian Goodfellow et al.**
-  - Generative Adversarial Networks
-  - [[Slides & Video]](https://nips.cc/Conferences/2016/Schedule?showEvent=6202)
-
-- **Arxiv 16 -- Carl Doersch.**
-  - Tutorial on Variational Autoencoders.   
-  - [[Paper]](https://arxiv.org/abs/1606.05908)
-
-- **IJCAI 18 Tutorial -- Stefano Ermon et al.**
-  - Tutorial on Deep Generative Models
-  - [[Slides]](https://ermongroup.github.io/generative-models/)
-  
-- **UAI 17 Tutorial -- Shakir Mohamed and Danilo Rezende.**
-  - Deep Generative Models
-  - [[Slides & Video]](http://auai.org/uai2017/tutorials.php)
-
-## Deep Generative Model
 
 - **ICML 14 -- Danilo J. Rezende et al.**
   - (DLGM) Stochastic Backpropagation and Approximate Inference in Deep Generative Models.  
@@ -125,7 +117,6 @@ https://openai.com/blog/generative-models/
   - On Unifying Deep Generative Models.
   - [[Paper]](https://arxiv.org/abs/1706.00550)
 
-## Deep Generative Model Application
 
 - **SIGIR 17 Best Paper-- Jun Wang et al.**
   - (IRGAN)IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models.   
@@ -158,6 +149,34 @@ https://openai.com/blog/generative-models/
 - **ICLR 18 -- Ilya Tolstikhin et al.**
   - Wasserstein Auto-Encoders.   
   - [[Paper]](https://arxiv.org/abs/1711.01558)
+
+## Tutorial & Review & Lecture Notes 
+
+- **JASA 17 -- David M.Blei et al.**
+  - Variational Inference: A Review for Statisticians.    
+  - [[Paper]](https://arxiv.org/abs/1601.00670)
+  - [[Notes]](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
+
+- **NIPS 16 Tutorial -- David Blei et al.**
+  - Variational Inference: Foundations and Modern Methods.   
+  - [[Slides & Video]](https://nips.cc/Conferences/2016/Schedule?showEvent=6199)
+
+- **NIPS 16 Tutorial -- Ian Goodfellow et al.**
+  - Generative Adversarial Networks
+  - [[Slides & Video]](https://nips.cc/Conferences/2016/Schedule?showEvent=6202)
+
+- **Arxiv 16 -- Carl Doersch.**
+  - Tutorial on Variational Autoencoders.   
+  - [[Paper]](https://arxiv.org/abs/1606.05908)
+
+- **IJCAI 18 Tutorial -- Stefano Ermon et al.**
+  - Tutorial on Deep Generative Models
+  - [[Slides]](https://ermongroup.github.io/generative-models/)
+  
+- **UAI 17 Tutorial -- Shakir Mohamed and Danilo Rezende.**
+  - Deep Generative Models
+  - [[Slides & Video]](http://auai.org/uai2017/tutorials.php)
+
  
  # Useful Resources
  
