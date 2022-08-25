@@ -79,6 +79,11 @@
 - [[Diffusion Models as a kind of VAE]](https://angusturner.github.io/generative_models/2021/06/29/diffusion-probabilistic-models-I.html)
   - *Angus Turner*
 
+- [[What are Diffusion Models ?]](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
+  - *Lilian Weng*
+
+
+
 https://www.inference.vc/denoising-as-unsupervised-learning/
 
 https://openai.com/blog/generative-models/
