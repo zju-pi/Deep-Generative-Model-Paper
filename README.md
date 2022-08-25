@@ -4,6 +4,7 @@
   - [Sampling](#sampling)
   - [Diffusion models](#diffusion-models)
   - [Other models](#other-models)
+  - [Blogs](#blogs)
   
 
 # Resources
@@ -72,7 +73,11 @@
 - **Generative Adversarial Nets** [[NIPS 2014]](https://arxiv.org/abs/1406.2661)
   - *Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio.*
 
-## Blog
+## Blogs
+
+
+- [[Diffusion Models as a kind of VAE]](https://angusturner.github.io/generative_models/2021/06/29/diffusion-probabilistic-models-I.html)
+  - *Angus Turner*
 
 https://www.inference.vc/denoising-as-unsupervised-learning/
 
